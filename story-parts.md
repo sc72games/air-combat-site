@@ -10,10 +10,12 @@ Act One
 1. The Japanese come to town. (They murder a bunch of people.)
 2. Joining the guerrillas. (You will gain one minor victory against an IJN patrol.)
 3. Bombing a bridge. (You will take out an IJN commander in the process of destroying this bridge.)
+
 Act Two
 1. Reinforcements (The IJN will supply more troops following the bridge bombing.)
 2. Help arrives from the Republic Army. (The ROC army will come support you.)
 3. False Sense of Victory (Following the ROC/CCP victory, the CCP troops will be arrested by the ROC army.)
+
 Act Three
 1. Brother On Brother (The CCP need to escape from the ROC prison, and they must fight ROC to do so.)
 2. Why do Japanese always shoot themselves in BOTH feet? (Sensing instability, the IJN army arrives to destroy the ROC army, allowing CCP guerrillas to escape.)
