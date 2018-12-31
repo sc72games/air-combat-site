@@ -1,7 +1,11 @@
 ## Story Sections
+
 As this is a single-player campaign-only game, there is no multiplayer, and the story involves three main acts spanning 3 chapters each. Each chapter probably takes around an hour to get through, so the whole story will be played out in about 9 or 10 hours, depending on how many times you have to respawn.
+
 This game is set in the Republic of China during the Second World War. The main character is of Chinese descent.
+
 -----
+
 Act One
 1. The Japanese come to town. (They murder a bunch of people.)
 2. Joining the guerrillas. (You will gain one minor victory against an IJN patrol.)
