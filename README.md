@@ -1,4 +1,4 @@
-# fps-1
-Just a simple, single-player FPS written in JS, with a 3-act story arc. This game is currently untitled and set during WWII in China.
+# Air Combat Information Portal
+Just a free online information portal website for my virtual server.
 
-_(Development is going nowhere & this project has been temporarily canned.)_
+_(Development has been reinitiated following a renaming rite.)_
